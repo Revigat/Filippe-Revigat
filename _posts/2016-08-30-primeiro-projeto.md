@@ -74,7 +74,7 @@ Installing setuptools, pip, wheel...done.
 
 ```
 
-Yeeeeh ! já estamos como nosso ambiente criado, então **Partiu próximo passo! **.
+Yeeeeh ! já estamos como nosso ambiente criado, que tal pegar um café? depois **Partiu próximo passo!**.
 
 
 
