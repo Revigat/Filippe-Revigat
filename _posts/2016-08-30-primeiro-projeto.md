@@ -9,7 +9,7 @@ Hoje iniciarei uma série de posts que vão ensinar você a ser **poderoso** de 
 
 ---
 
-**Bora começar**
+**Bora começar!**
 
 Conceitos que é interessante saber.
 
