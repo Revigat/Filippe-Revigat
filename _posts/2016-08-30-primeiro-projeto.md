@@ -32,7 +32,7 @@ Primeiro o que é uma virtualenv ?
 
 É um ambiente **ISOLADO** para Python, pense como se fosse uma caixa, e dentro dessa caixa nós vamos colocar ferramentas de trabalho.
 
-* verifique se você tem a vitualenv instaladada, execute o comando "**virtualenv --version**" (sem aspas).
+* verifique se você tem a vitualenv instaladada, execute o comando "**virtualenv - -version**" (sem aspas).
 
 ```
 sh-3.2# virtualenv --version
@@ -48,12 +48,12 @@ Obeserve que o meu comando retornou a versão, isso significa que eu já tenho e
 
 Agora que estamos com nossa virtualenv instalada, **Partiu próximo passo**.
 
-### Criando nossa **virtualenv**.
+### Criando nossa **Virtualenv**.
 
 para ciar uma **Virtualenv** execute:
 
 * virtualenv --python=python3 primeiroambiente.
-  * **--python** (parâmetro)
+  * **- -python** (parâmetro)
   * **python3** (versão da linguagem)
   * **primeiroambiente** (nome da pasta)
 
@@ -62,7 +62,7 @@ sh-3.2# virtualenv --python=python3 primeiroambiente
 
 ```
 
-se tudo ocorrer bem você terá algo como
+Se tudo ocorrer bem você terá algo como
 
 ```
 virtualenv --python=python3 primeiroambiente
