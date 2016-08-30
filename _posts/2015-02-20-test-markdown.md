@@ -55,8 +55,6 @@ foo(3)
 s = "Python syntax highlighting"
 print s
 ```
-
 {% highlight python linenos %}
-s = "Python syntax highlighting"
-print s
+import json
 {% endhighlight %}
