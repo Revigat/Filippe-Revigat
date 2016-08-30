@@ -10,4 +10,4 @@ Hoje iniciarei uma série de posts que vão ensinar você a ser **poderoso** de 
 **Bora começar !**
 ---
 Conceitos que é interessante saber.
-> Python é uma linguagem de programação de alto nível, interpretada, de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte ... ufaa, falta até folego para falar tudo isso. [wikipedia](https://pt.wikipedia.org/wiki/Python)
+> Python é uma linguagem de programação de alto nível, interpretada, de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte ... Ufaa, faltou até folego para falar tudo isso. [wikipedia](https://pt.wikipedia.org/wiki/Python)
