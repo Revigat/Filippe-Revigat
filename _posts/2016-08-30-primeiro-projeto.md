@@ -14,7 +14,12 @@ Conceitos que é interessante saber.
 
 >Django é um Framework Web Python de alto nível que incentica o desenvolvimento rápido e limpo. Criado por desenvolvedores experientes, que cuidam da maior parte do trabalho de desenvolvimento Web, para que não seja preciso reinventar a roda. [Django](https://www.djangoproject.com/).
 
-### Mão no Terminal
+### Abra o Terminal
+```
+sh-3.2# pwd
+/Users/Revigat
+
+```
 
 Criando nossa **virtualenv**
 
