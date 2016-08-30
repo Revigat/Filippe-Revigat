@@ -50,3 +50,8 @@ var foo = function(x) {
 }
 foo(3)
 {% endhighlight %}
+
+```python
+s = "Python syntax highlighting"
+print s
+```
