@@ -1,5 +1,5 @@
 ---
 layout: post
-title: O primeiro Projeto
-subtitle: Erros vão acontecer, então... não se preocupe. 
+title: O Primeiro Projeto
+subtitle: Esse é o mais Legal (:
 ---
