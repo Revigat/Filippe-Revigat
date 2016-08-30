@@ -76,6 +76,25 @@ Installing setuptools, pip, wheel...done.
 
 Yeeeeh ! já estamos como nosso ambiente criado, que tal pegar um café? depois **Partiu próximo passo!**.
 
+Para que seja possível trabalhar, devemos **ativar** nossa virtualenv e para ativa-lá devemos estar dentro da pasta criada(primeiroambiente) anteriormente.
+
+Execute: **"cd primeiroambiente"** depois verifique se deu certo, com o comando: "**pwd**". (ambos sem aspas).
+
+Se tudo ocorrer bem, você verá algo como.
+
+```
+sh-3.2# cd primeiroambiente/
+sh-3.2# pwd
+/Users/Revigat/primeiroambiente
+sh-3.2#
+
+```
+
+
+### Ativando a Virtualenv
+
+
+
 
 
 
