@@ -74,6 +74,10 @@ Installing setuptools, pip, wheel...done.
 
 ```
 
+Yeeeeh ! já estamos como nosso ambiente criado, então **Partiu próximo passo! **.
+
+
+
 
 
 
