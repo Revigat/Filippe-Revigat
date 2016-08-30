@@ -16,6 +16,7 @@ Conceitos que é interessante saber.
 
 ### Abra o Terminal
 digite o comando "pwd"(sem aspas), este comando serve para verificar o diretório em que estamos no momento, e é aonde nosso projeto vai ser criado.
+
 ```
 sh-3.2# pwd
 /Users/Revigat
