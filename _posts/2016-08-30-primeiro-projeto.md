@@ -52,7 +52,7 @@ Agora que estamos com nossa virtualenv instalada, **Partiu próximo passo**.
 
 para ciar uma **Virtualenv** execute:
 
-* virtualenv --python=python3 primeiroambiente.
+* virtualenv - -python=python3 primeiroambiente.
   * **- -python** (parâmetro)
   * **python3** (versão da linguagem)
   * **primeiroambiente** (nome da pasta)
