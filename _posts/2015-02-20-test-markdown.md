@@ -50,3 +50,8 @@ var foo = function(x) {
 }
 foo(3)
 {% endhighlight %}
+
+{% highlight python linenos %}
+def index(request):
+    HttpResponse
+{% endhighlight %}
