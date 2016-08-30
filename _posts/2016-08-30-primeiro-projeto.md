@@ -50,7 +50,9 @@ Agora que estamos com nossa virtualenv instalada, **Partiu próximo passo**.
 
 ### Criando nossa **virtualenv**.
 
-* para ciar uma **Virtualenv** execute:
+para ciar uma **Virtualenv** execute:
+
+* virtualenv --python=python3 primeiroambiente.
 
 ```
 sh-3.2# virtualenv --python=python3 primeiroambiente
