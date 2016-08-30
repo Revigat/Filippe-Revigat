@@ -17,18 +17,34 @@ Conceitos que é interessante saber.
 
 >Django é um Framework Web Python de alto nível que incentica o desenvolvimento rápido e limpo. Criado por desenvolvedores experientes, que cuidam da maior parte do trabalho de desenvolvimento Web, para que não seja preciso reinventar a roda. [Django](https://www.djangoproject.com/).
 
-#### Abra o Terminal
-Digite o comando "pwd" (sem aspas), este comando serve para verificar o diretório em que estamos, e é aonde nosso projeto vai ser criado.
+### Abra o Terminal
+Digite o comando "**pwd**" (sem aspas), este comando serve para verificar o diretório em que estamos, e é aonde nosso projeto vai ser criado.
 
 ```
 sh-3.2# pwd
 /Users/Revigat
 
 ```
-
-Criando nossa **virtualenv**.
+### Criando nosso ambiente de desenvolvimento com **virtualenv**
 
 Primeiro o que é uma virtualenv ? 
 
 É um ambiente **ISOLADO** para Python, pense como se fosse uma caixa, e dentro dessa caixa nós colocamos nossas ferramentas de trabalho.
+
+verifique se você tem a vitualenv instaladada, execute o comando "**virtualenv --version**" (sem aspas).
+
+```
+sh-3.2# virtualenv --version
+15.0.3
+```
+
+Obeserve que o meu comando retornou a versão, isso significa que eu já tenho ela instalda, se o seu não retornar a versão, execute:
+
+Macosx: **pip install viratualenv**.
+
+Ubuntu ou Debian: **sudo apt-get install python-setuptools** depois **sudo easy_install virtualenv**.
+
+Criando nossa **virtualenv**.
+
+
 
