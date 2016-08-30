@@ -16,5 +16,5 @@ Conceitos que é interessante saber.
 
 ### Mão no Terminal
 
-Galera para este post estarei usando Macosx porém no linux é muito parecido.
+Criando nossa **virtualenv**
 
