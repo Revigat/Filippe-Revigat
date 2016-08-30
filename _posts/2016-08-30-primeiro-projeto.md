@@ -25,7 +25,7 @@ sh-3.2# pwd
 /Users/Revigat
 
 ```
-.
+
 ### Criando nosso ambiente de desenvolvimento com virtualenv.
 
 Primeiro o que é uma virtualenv ? 
@@ -37,6 +37,7 @@ verifique se você tem a vitualenv instaladada, execute o comando "**virtualenv 
 ```
 sh-3.2# virtualenv --version
 15.0.3
+
 ```
 
 Obeserve que o meu comando retornou a versão, isso significa que eu já tenho ela instalda, se o seu não retornar a versão, execute:
@@ -45,7 +46,10 @@ Macosx: **pip install viratualenv**.
 
 Ubuntu ou Debian: **sudo apt-get install python-setuptools** depois **sudo easy_install virtualenv**.
 
+Agora que estamos com nossa virtualenv instalada, **Partiu próximo passo**.
+
 Criando nossa **virtualenv**.
+
 
 
 
