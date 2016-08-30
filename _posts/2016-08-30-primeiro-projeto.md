@@ -25,8 +25,8 @@ sh-3.2# pwd
 /Users/Revigat
 
 ```
-
-###Criando nosso ambiente de desenvolvimento com virtualenv.
+.
+### Criando nosso ambiente de desenvolvimento com virtualenv.
 
 Primeiro o que é uma virtualenv ? 
 
