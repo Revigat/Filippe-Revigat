@@ -53,5 +53,4 @@ foo(3)
 
 {% highlight python linenos %}
 def index(request):
-    HttpResponse
 {% endhighlight %}
