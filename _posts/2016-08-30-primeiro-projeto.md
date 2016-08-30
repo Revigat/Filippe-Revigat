@@ -15,7 +15,7 @@ Conceitos que é interessante saber.
 >Django é um Framework Web Python de alto nível que incentica o desenvolvimento rápido e limpo. Criado por desenvolvedores experientes, que cuidam da maior parte do trabalho de desenvolvimento Web, para que não seja preciso reinventar a roda. [Django](https://www.djangoproject.com/).
 
 ### Abra o Terminal
-digite o comando "pwd"(sem aspas), este comando serve para verificar o diretório em que estamos no momento, e é aonde nosso projeto vai ser criado.
+digite o comando "pwd" (sem aspas), este comando serve para verificar o diretório em que estamos, e é aonde nosso projeto vai ser criado.
 
 ```
 sh-3.2# pwd
