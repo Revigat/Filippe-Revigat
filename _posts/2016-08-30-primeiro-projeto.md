@@ -62,6 +62,20 @@ sh-3.2# virtualenv --python=python3 primeiroambiente
 
 ```
 
+se tudo ocorrer bem você terá algo como
+
+```
+virtualenv --python=python3 primeiroambiente
+Running virtualenv with interpreter /usr/local/bin/python3
+Using base prefix '/Library/Frameworks/Python.framework/Versions/3.5'
+New python executable in /Users/Revigat/primeiroambiente/bin/python3
+Also creating executable in /Users/Revigat/primeiroambiente/bin/python
+Installing setuptools, pip, wheel...done.
+
+```
+
+
+
 
 
 
