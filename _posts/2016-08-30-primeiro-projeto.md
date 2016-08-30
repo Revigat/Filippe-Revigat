@@ -32,7 +32,7 @@ Primeiro o que é uma virtualenv ?
 
 É um ambiente **ISOLADO** para Python, pense como se fosse uma caixa, e dentro dessa caixa nós vamos colocar ferramentas de trabalho.
 
-* verifique se você tem a vitualenv instaladada, execute o comando "**virtualenv - -version**" (sem aspas).
+* verifique se você tem a vitualenv instalada, execute o comando "**virtualenv - -version**" (sem aspas).
 
 ```
 sh-3.2# virtualenv --version
