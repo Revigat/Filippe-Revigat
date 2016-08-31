@@ -108,10 +108,11 @@ Para ativar é muito simples, basta executar: "**source bin/activate**"
 
 O que define se o ambiente está ativo ou não é os parenteses envolvendo o nome do ambiente criado.
 
+
 ```
 
 sh-3.2# source bin/activate
-(primeiroambiente) sh-3.2#
+(primeiroambiente) sh-3.2
 
 
 ```
