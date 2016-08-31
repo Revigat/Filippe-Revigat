@@ -124,3 +124,6 @@ sh-3.2# source bin/activate
 Best Regards,
 
 Filippe Revigat
+
+Inline-style: 
+![alt text](https://github.com/Revigat/Revigat.github.io/blob/master/img/site.png "Logo Title Text 1")
