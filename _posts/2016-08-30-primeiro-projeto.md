@@ -50,7 +50,7 @@ Agora que estamos com nossa virtualenv instalada, **Partiu próximo passo**.
 
 ### Criando nossa **Virtualenv**.
 
-para ciar uma **Virtualenv** execute:
+para criar uma **Virtualenv** execute:
 
 * virtualenv - -python=python3 primeiroambiente.
   * **- -python** (parâmetro)
