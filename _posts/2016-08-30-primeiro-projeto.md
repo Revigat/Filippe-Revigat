@@ -117,20 +117,6 @@ sh-3.2# source bin/activate
 
 ```
 
+**Ufaaaaaa, quanta coisa hein.**
 
-###Ufaaaaaa, quanta coisa hein.
-
-###Se você chegou até aqui, parabéns está no caminho certo! 
-
-
-
-
-
-
-
-
-
-
-
-
-
+**Se você chegou até aqui, parabéns está no caminho certo!**
