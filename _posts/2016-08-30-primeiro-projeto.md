@@ -1,7 +1,7 @@
 ---
 layout: post
-title: O Primeiro Projeto
-subtitle: Esse é o mais Power
+title: O Primeiro Projeto - Parte 1
+subtitle: É muito massa
 ---
 
 Fala Pythonista Djangonistas tudo bem? rsrs esperamos que sim.
