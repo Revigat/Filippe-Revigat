@@ -119,7 +119,7 @@ sh-3.2# source bin/activate
 
 **Ufaaaaaa, quanta coisa hein. Se você chegou até aqui está de parabéns!**
 
-**Se você ficou com dúvida ou não conseguiu executar o passo a passo, fique a vontade para perguntar, eu aprendo ensinando, então ensinar pra mim vale muito** 
+**Se ficou com dúvida ou não conseguiu executar o passo a passo, fique a vontade para perguntar, eu aprendo ensinando, então ensinar pra mim vale muito** 
 
 Best Regards,
 
