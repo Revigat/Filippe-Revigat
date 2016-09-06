@@ -4,7 +4,7 @@ title: O Primeiro Projeto - Parte 1
 subtitle: É muito massa
 ---
 
-Fala Pythonista Djangonistas tudo bem? rsrs esperamos que sim.
+Fala Pythonista Djangonista tudo bem? rsrs esperamos que sim.
 Hoje iniciarei uma série de posts que vão ensinar você a ser **poderoso** de forma intuitiva e simples, aliás, simplicidade está no **DNA** do Python e do Django.
 
 ---
